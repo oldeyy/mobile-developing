@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Карточка -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,38h40a4,4 0,0 1,4 4v28a4,4 0,0 1,-4 4h-40a4,4 0,0 1,-4 -4v-28a4,4 0,0 1,4 -4z" />
+    <!-- Полоса карты -->
+    <path
+        android:fillColor="#C5CAE9"
+        android:pathData="M30,46h48v7h-48z" />
+    <!-- Строки -->
+    <path
+        android:fillColor="#3949AB"
+        android:pathData="M37,60h16v4h-16z" />
+    <!-- Монета -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M68,66m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66.5,60h4v12h-4z" />
+</vector>
